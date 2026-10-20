@@ -1,8 +1,8 @@
 ---
-name: storyboard-director
+name: xiao-mo-dao-yan
 description: Use when the user asks for Chinese cinematic storyboards, shot lists, camera blocking, or film-style visual specifications from a novel, script, or scene description.
 ---
-# 电影分镜导演 Skill v5.8（中文画面规格书格式）
+# 小墨导演 Skill v5.8（中文画面规格书格式）
 
 > **v5.8 核心变更**（基于 v5.7）：
 > - **输出格式全面重构**——v5.7 的输出是"给AI视频工具的操作手册"：15+字段、英文L1-L9九层AI提示词、多重自检表、场景预可视化模板、轴线ASCII图、镜头语言总览表。信息量大但可读性差，且英文提示词对不使用Runway/Sora/Kling的用户是噪音。
